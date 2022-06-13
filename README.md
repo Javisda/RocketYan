@@ -1,6 +1,6 @@
 <H1 ALIGN="CENTER">ROCKETYAN</H1>
 <p align="center"> 
-
+<p>I have cloned this project because i wanted it to be in my profile. I'm on the right to do it as I´m part of the team. Original post is here https://github.com/OkupaSofware/ProjectSpace</p>
   <img src=https://user-images.githubusercontent.com/91082053/143498004-cad32df3-9e1f-46ed-bc0d-e671f937c2d7.png>
   <h2 align="center">Controlling a ship has never been that challenging
      <br> 
